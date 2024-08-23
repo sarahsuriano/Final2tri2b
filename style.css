@@ -124,7 +124,7 @@ body {
 }
 
 .topicos__link {
-    color: var(--branco);
+    color: black;
     padding: 1em;
     background-color: var(--laranja);
     font-size: 14px;
