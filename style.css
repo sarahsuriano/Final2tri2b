@@ -35,7 +35,7 @@ body {
 }
 
 .container__imagem {
-    width:20px ;
+    padding: 10px;
 }
 
 .cabeçalho__menu-hamburguer {
